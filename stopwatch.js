@@ -28,7 +28,6 @@ function calcTotalTime() {
 
 function printTime() {
   document.getElementById("total-time").innerHTML = formatTime(totalTime);
-  document.getElementById("start-time").innerHTML = startTime;
 }
 
 function tick() {

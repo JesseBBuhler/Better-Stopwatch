@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+
+body {
+  background-color: orange;
+  color: white;
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+  padding-top: 100px;
+}
+
+button {
+  color: white;
+  background-color: orange;
+  border: 1px solid white;
+  border-radius: 30px;
+  padding: 20px 50px;
+  margin: 10px;
+}
+
+button:hover {
+  color: orange;
+  background-color: white;
+}
